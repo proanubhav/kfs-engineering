@@ -109,7 +109,7 @@
                     </div>
                     <div class="offer-item">
                         <div class="offer-top">
-                            <img src="assets/img/product-1.jpg" alt="Offer">
+                            <img src="assets/img/product-4.jpg" alt="Offer">
                             <i class="flaticon-3d-print"></i>
                         </div>
                         <div class="offer-bottom">
@@ -125,7 +125,7 @@
                     </div>
                     <div class="offer-item">
                         <div class="offer-top">
-                            <img src="assets/img/product-2.jpg" alt="Offer">
+                            <img src="assets/img/product-5.jpg" alt="Offer">
                             <i class="flaticon-robotic-arm"></i>
                         </div>
                         <div class="offer-bottom">
@@ -141,7 +141,7 @@
                     </div>
                     <div class="offer-item">
                         <div class="offer-top">
-                            <img src="assets/img/product-3.jpg" alt="Offer">
+                            <img src="assets/img/product-6.jpg" alt="Offer">
                             <i class="flaticon-defribillator"></i>
                         </div>
                         <div class="offer-bottom">
@@ -157,7 +157,7 @@
                     </div>
                     <div class="offer-item">
                         <div class="offer-top">
-                            <img src="assets/img/product-1.jpg" alt="Offer">
+                            <img src="assets/img/product-7.jpg" alt="Offer">
                             <i class="flaticon-3d-print"></i>
                         </div>
                         <div class="offer-bottom">
@@ -173,7 +173,7 @@
                     </div>
                     <div class="offer-item">
                         <div class="offer-top">
-                            <img src="assets/img/product-2.jpg" alt="Offer">
+                            <img src="assets/img/product-8.jpg" alt="Offer">
                             <i class="flaticon-3d-print"></i>
                         </div>
                         <div class="offer-bottom">
@@ -189,7 +189,7 @@
                     </div>
                     <div class="offer-item">
                         <div class="offer-top">
-                            <img src="assets/img/product-3.jpg" alt="Offer">
+                            <img src="assets/img/product-4.jpg" alt="Offer">
                             <i class="flaticon-3d-print"></i>
                         </div>
                         <div class="offer-bottom">
