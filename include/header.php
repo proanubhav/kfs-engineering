@@ -15,8 +15,8 @@
                             </li> -->
                             <li>
                                 <i class="flaticon-mail"></i>
-                                <a href="mailto:efsengineeringworks@outlook.com">
-                                    <span class="__cf_email__" >efsengineeringworks@outlook.com</span>
+                                <a href="mailto:kfsengineeringworks@outlook.com">
+                                    <span class="__cf_email__" >kfsengineeringworks@outlook.com</span>
                                 </a>
                             </li>
                             <li>
@@ -40,17 +40,12 @@
                             </li>
                             <li>
                                 <a href="#" target="_blank">
+                                    <i class='bx bxl-instagram'></i>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="#" target="_blank">
                                     <i class='bx bxl-twitter'></i>
-                                </a>
-                            </li>
-                            <li>
-                                <a href="#" target="_blank">
-                                    <i class='bx bxl-pinterest-alt'></i>
-                                </a>
-                            </li>
-                            <li>
-                                <a href="#" target="_blank">
-                                    <i class='bx bxl-linkedin'></i>
                                 </a>
                             </li>
                         </ul>

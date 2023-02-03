@@ -8,7 +8,7 @@
                         <a class="logo-link" href="index.php">
                             <img src="assets/img/logo-two.png" alt="Logo">
                         </a>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                        <p>Started in 2004 Microns is an established name in manufacturing of wide range of precision machined components & assemblies.</p>
                         <ul>
                             <li>
                                 <a href="#" target="_blank">
@@ -17,17 +17,12 @@
                             </li>
                             <li>
                                 <a href="#" target="_blank">
+                                    <i class='bx bxl-instagram'></i>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="#" target="_blank">
                                     <i class='bx bxl-twitter'></i>
-                                </a>
-                            </li>
-                            <li>
-                                <a href="#" target="_blank">
-                                    <i class='bx bxl-pinterest-alt'></i>
-                                </a>
-                            </li>
-                            <li>
-                                <a href="#" target="_blank">
-                                    <i class='bx bxl-linkedin'></i>
                                 </a>
                             </li>
                         </ul>
@@ -106,7 +101,7 @@
                             <li>
                                 <i class='bx bx-mail-send'></i>
                                 <h4>Email</h4>
-                                <a href="mailto:efsengineeringworks@outlook.com"><span class="__cf_email__" >efsengineeringworks@outlook.com</span></a>
+                                <a href="mailto:kfsengineeringworks@outlook.com"><span class="__cf_email__" >kfsengineeringworks@outlook.com</span></a>
                             </li>
                             <li>
                                 <i class='bx bx-location-plus'></i>
@@ -126,7 +121,7 @@
 <div class="copyright-area">
     <div class="container">
         <div class="copyright-item">
-            <p>Copyright ©2022 Robtic. Designed By <a href="https://hibootstrap.com/" target="_blank">EnvyTheme</a></p>
+            <p>Copyright ©2023 KFS Engineering. Designed By <a href="#" target="_blank">Love</a></p>
         </div>
     </div>
 </div>

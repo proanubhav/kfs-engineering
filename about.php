@@ -57,8 +57,12 @@
                             <h2>Design, Simulate, and Control Your Robtic System with the Action SDK</h2>
                         </div>
                         <div class="about-content">
-                            <p>‘’Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo’’</p>
-                            <ul>
+                        <p class="about-p">Started in 2004 Microns is an established name in manufacturing of wide range of precision machined components & assemblies.</p>
+                            <p class="about-p">The company was setup with the objective of serving the domestic and international customer in the field of Construction Equipment ,tractor industry & Automotive Sector.</p>
+                            <p class="about-p">The company is accredited with ISO 9001-2008 Quality Management System.</p>
+                            <p class="about-p">Our products are being supplied in India and abroad.</p>
+                            <p class="about-p">We are fully equipped to design and develop customized products as per customer need.</p>
+                            <!-- <ul>
                                 <li>
                                     <i class='bx bx-check'></i>
                                     Full-Service Electrical Layout Design
@@ -75,9 +79,7 @@
                                     <i class='bx bx-check'></i>
                                     Virtually Industrial Robtic Need You Have
                                 </li>
-                            </ul>
-                            <img src="assets/img/home-one/about-man.png" alt="About">
-                            <img src="assets/img/home-one/about-signature.png" alt="About">
+                            </ul> -->
                         </div>
                     </div>
                     <div class="col-lg-6">
@@ -103,7 +105,7 @@
                                 <img src="assets/img/home-one/about5.png" alt="About">
                             </div>
                             <div class="about-year">
-                                <h2>35 <span>Years</span></h2>
+                                <h2>18 <span>Years</span></h2>
                             </div>
                         </div>
                     </div>
@@ -126,33 +128,20 @@
                             <div class="section-title">
                                 <h2>Enhancing, Not Replacing, Human Jobs</h2>
                             </div>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis.</p>
+                            <p>Precision machined components out of bar stocks, forgings & castings. Special manufacturing line for pivot pins, can handle pins of diameter upto 150 mm and length upto 1500 mm made out of carbon steel & special alloy steel.</p>
+                            <p>Special manufacturing line for bushes, can handle bushes of diameter ranging from 25 mm to 200 mm made out of case hardenable steel as well as induction hardenable steel.</p>
+                            <p><strong>Sound Engineering Capabilities:</strong></p>
                             <ul>
                                 <li>
                                     <i class='bx bx-check'></i>
-                                    Higher Revenue
+                                    In house facilities for designing of jigs, fixtures & toolings.
                                 </li>
                                 <li>
                                     <i class='bx bx-check'></i>
-                                    Improved Monitoring
-                                </li>
-                                <li>
-                                    <i class='bx bx-check'></i>
-                                    Lower Cost
-                                </li>
-                                <li>
-                                    <i class='bx bx-check'></i>
-                                    Fast Implementation
-                                </li>
-                                <li>
-                                    <i class='bx bx-check'></i>
-                                    Greater Efficiency
-                                </li>
-                                <li>
-                                    <i class='bx bx-check'></i>
-                                    Better Safety
+                                    Dedicated team for faster product development.
                                 </li>
                             </ul>
+                            <p>Wide range of machineries under one roof including heat treatment to cater to wide range of products, capable of handling products weighing from 100 gms to 100 Kgs. Well equiped lab with diverse range of equipment.</p>
                         </div>
                     </div>
                 </div>

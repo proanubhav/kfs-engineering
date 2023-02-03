@@ -30,8 +30,8 @@
                         <div class="row align-items-center">
                             <div class="col-lg-8">
                                 <div class="banner-content">
-                                    <h1>We Are The Best Robotic Maker Industry </h1>
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendis</p>
+                                    <h1>We Are The Best Precision Machined Components & Assemblies. </h1>
+                                    <p>The company was setup with the objective of serving the domestic and international customer in the field of Construction Equipment ,tractor industry & Automotive Sector.</p>
                                     <a class="cmn-btn" href="about.php">
                                         Discover More
                                         <i class='bx bx-right-arrow-alt'></i>
@@ -61,17 +61,15 @@
                 <div class="offer-slider owl-theme owl-carousel">
                     <div class="offer-item">
                         <div class="offer-top">
-                            <img src="assets/img/home-two/offer1.jpg" alt="Offer">
+                            <img src="assets/img/product-1.jpg" alt="Offer">
                             <i class="flaticon-3d-print"></i>
                         </div>
                         <div class="offer-bottom">
                             <h3>
                                 <a href="#">Hammer Union</a>
                             </h3>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod </p>
-                            <a class="offer-link" href="#">Read More
-                                <i class='bx bx-plus'></i>
-                            </a>
+                            <!-- <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod </p> -->
+                            
                         </div>
                         <div class="offer-shape">
                             <img src="assets/img/home-two/offer-shape.png" alt="Offer">
@@ -79,17 +77,15 @@
                     </div>
                     <div class="offer-item">
                         <div class="offer-top">
-                            <img src="assets/img/home-two/offer2.jpg" alt="Offer">
+                            <img src="assets/img/product-2.jpg" alt="Offer">
                             <i class="flaticon-robotic-arm"></i>
                         </div>
                         <div class="offer-bottom">
                             <h3>
                                 <a href="#">Dowel Pins</a>
                             </h3>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod </p>
-                            <a class="offer-link" href="#">Read More
-                                <i class='bx bx-plus'></i>
-                            </a>
+                            <!-- <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod </p> -->
+                            
                         </div>
                         <div class="offer-shape">
                             <img src="assets/img/home-two/offer-shape.png" alt="Offer">
@@ -97,17 +93,15 @@
                     </div>
                     <div class="offer-item">
                         <div class="offer-top">
-                            <img src="assets/img/home-two/offer3.jpg" alt="Offer">
+                            <img src="assets/img/product-3.jpg" alt="Offer">
                             <i class="flaticon-defribillator"></i>
                         </div>
                         <div class="offer-bottom">
                             <h3>
                                 <a href="#">Bushes</a>
                             </h3>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod </p>
-                            <a class="offer-link" href="#">Read More
-                                <i class='bx bx-plus'></i>
-                            </a>
+                            <!-- <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod </p> -->
+                            
                         </div>
                         <div class="offer-shape">
                             <img src="assets/img/home-two/offer-shape.png" alt="Offer">
@@ -115,17 +109,15 @@
                     </div>
                     <div class="offer-item">
                         <div class="offer-top">
-                            <img src="assets/img/home-two/offer1.jpg" alt="Offer">
+                            <img src="assets/img/product-1.jpg" alt="Offer">
                             <i class="flaticon-3d-print"></i>
                         </div>
                         <div class="offer-bottom">
                             <h3>
                                 <a href="#">Rings</a>
                             </h3>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod </p>
-                            <a class="offer-link" href="#">Read More
-                                <i class='bx bx-plus'></i>
-                            </a>
+                            <!-- <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod </p> -->
+                            
                         </div>
                         <div class="offer-shape">
                             <img src="assets/img/home-two/offer-shape.png" alt="Offer">
@@ -133,17 +125,15 @@
                     </div>
                     <div class="offer-item">
                         <div class="offer-top">
-                            <img src="assets/img/home-two/offer2.jpg" alt="Offer">
+                            <img src="assets/img/product-2.jpg" alt="Offer">
                             <i class="flaticon-robotic-arm"></i>
                         </div>
                         <div class="offer-bottom">
                             <h3>
                                 <a href="#">Shafts</a>
                             </h3>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod </p>
-                            <a class="offer-link" href="#">Read More
-                                <i class='bx bx-plus'></i>
-                            </a>
+                            <!-- <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod </p> -->
+                            
                         </div>
                         <div class="offer-shape">
                             <img src="assets/img/home-two/offer-shape.png" alt="Offer">
@@ -151,17 +141,15 @@
                     </div>
                     <div class="offer-item">
                         <div class="offer-top">
-                            <img src="assets/img/home-two/offer3.jpg" alt="Offer">
+                            <img src="assets/img/product-3.jpg" alt="Offer">
                             <i class="flaticon-defribillator"></i>
                         </div>
                         <div class="offer-bottom">
                             <h3>
                                 <a href="#">Adapters</a>
                             </h3>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod </p>
-                            <a class="offer-link" href="#">Read More
-                                <i class='bx bx-plus'></i>
-                            </a>
+                            <!-- <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod </p> -->
+                            
                         </div>
                         <div class="offer-shape">
                             <img src="assets/img/home-two/offer-shape.png" alt="Offer">
@@ -169,17 +157,15 @@
                     </div>
                     <div class="offer-item">
                         <div class="offer-top">
-                            <img src="assets/img/home-two/offer1.jpg" alt="Offer">
+                            <img src="assets/img/product-1.jpg" alt="Offer">
                             <i class="flaticon-3d-print"></i>
                         </div>
                         <div class="offer-bottom">
                             <h3>
                                 <a href="#">Washers</a>
                             </h3>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod </p>
-                            <a class="offer-link" href="#">Read More
-                                <i class='bx bx-plus'></i>
-                            </a>
+                            <!-- <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod </p> -->
+                            
                         </div>
                         <div class="offer-shape">
                             <img src="assets/img/home-two/offer-shape.png" alt="Offer">
@@ -187,17 +173,15 @@
                     </div>
                     <div class="offer-item">
                         <div class="offer-top">
-                            <img src="assets/img/home-two/offer1.jpg" alt="Offer">
+                            <img src="assets/img/product-2.jpg" alt="Offer">
                             <i class="flaticon-3d-print"></i>
                         </div>
                         <div class="offer-bottom">
                             <h3>
                                 <a href="#">Flanges</a>
                             </h3>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod </p>
-                            <a class="offer-link" href="#">Read More
-                                <i class='bx bx-plus'></i>
-                            </a>
+                            <!-- <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod </p> -->
+                            
                         </div>
                         <div class="offer-shape">
                             <img src="assets/img/home-two/offer-shape.png" alt="Offer">
@@ -205,17 +189,15 @@
                     </div>
                     <div class="offer-item">
                         <div class="offer-top">
-                            <img src="assets/img/home-two/offer1.jpg" alt="Offer">
+                            <img src="assets/img/product-3.jpg" alt="Offer">
                             <i class="flaticon-3d-print"></i>
                         </div>
                         <div class="offer-bottom">
                             <h3>
                                 <a href="#">Ball Pins</a>
                             </h3>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod </p>
-                            <a class="offer-link" href="#">Read More
-                                <i class='bx bx-plus'></i>
-                            </a>
+                            <!-- <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod </p> -->
+                            
                         </div>
                         <div class="offer-shape">
                             <img src="assets/img/home-two/offer-shape.png" alt="Offer">
@@ -223,17 +205,15 @@
                     </div>
                     <div class="offer-item">
                         <div class="offer-top">
-                            <img src="assets/img/home-two/offer1.jpg" alt="Offer">
+                            <img src="assets/img/product-1.jpg" alt="Offer">
                             <i class="flaticon-3d-print"></i>
                         </div>
                         <div class="offer-bottom">
                             <h3>
                                 <a href="#">Nuts</a>
                             </h3>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod </p>
-                            <a class="offer-link" href="#">Read More
-                                <i class='bx bx-plus'></i>
-                            </a>
+                            <!-- <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod </p> -->
+                            
                         </div>
                         <div class="offer-shape">
                             <img src="assets/img/home-two/offer-shape.png" alt="Offer">
@@ -298,9 +278,9 @@
 
         <!-- Job -->
         <div class="job-area">
-            <div class="job-shape">
+            <!-- <div class="job-shape">
                 <img src="assets/img/home-two/job2.png" alt="Job">
-            </div>
+            </div> -->
             <div class="container-fluid">
                 <div class="row m-0">
                     <div class="col-lg-6">

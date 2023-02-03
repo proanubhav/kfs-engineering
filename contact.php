@@ -62,8 +62,8 @@
                                 </li>
                                 <li>
                                     <i class='bx bx-mail-send'></i>
-                                    <a href="mailto:efsengineeringworks@outlook.com">
-                                        <span class="__cf_email__">efsengineeringworks@outlook.com</span>
+                                    <a href="mailto:kfsengineeringworks@outlook.com">
+                                        <span class="__cf_email__">kfsengineeringworks@outlook.com</span>
                                     </a>
                                 </li>
                                 <li>
@@ -133,7 +133,7 @@
 
         <!-- Map -->
         <div class="map-area">
-            <iframe id="map" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d59791272.948469065!2d62.57506029141487!3d23.84100284788009!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3663f18a24cbe857%3A0xa9416bfcd3a0f459!2sAsia!5e0!3m2!1sen!2sbd!4v1594975629033!5m2!1sen!2sbd" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+            <iframe src="https://www.google.com/maps/embed?pb=!1m23!1m12!1m3!1d448819.1594559138!2d76.9499811857936!3d28.49762032284863!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m8!3e6!4m0!4m5!1s0x390daeb224a6b617%3A0x5ab60e05903e4f9c!2sHari%20Om%20Dharam%20Kanta%2C%20Sector%2051%2C%20Bazidpur%20Saboli%2C%20Haryana%20131029!3m2!1d28.891082899999997!2d77.0891339!5e0!3m2!1sen!2sin!4v1675446532600!5m2!1sen!2sin" width="100%" height="400" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
         </div>
         <!-- End Map -->
         
