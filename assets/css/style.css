@@ -221,7 +221,7 @@ button:focus {
 
 .navbar-area .main-nav .navbar-light .navbar-nav {
   margin-left: auto;
-  margin-right: auto;
+  margin-right: 0;
 }
 
 .navbar-area .main-nav .navbar-light .navbar-nav .nav-item:hover a {
@@ -235,6 +235,10 @@ button:focus {
   position: relative;
   -webkit-transition: 0.5s all ease;
   transition: 0.5s all ease;
+}
+
+.navbar-area .main-nav .navbar-light .navbar-nav .nav-item a:last-child {
+  margin-right: 0;
 }
 
 .navbar-area .main-nav .navbar-light .navbar-nav .nav-item a:before {

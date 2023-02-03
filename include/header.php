@@ -108,9 +108,9 @@
                             <a href="contact.php" class="nav-link">Contact</a>
                         </li>
                     </ul>
-                    <div class="side-nav">
+                    <!-- <div class="side-nav">
                         <a href="#">Get A Quote</a>
-                    </div>
+                    </div> -->
                 </div>
             </nav>
         </div>

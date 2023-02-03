@@ -54,22 +54,22 @@
                     <div class="col-lg-6">
                         <div class="contact-item contact-left">
                             <h3>Our Located Place</h3>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Officiis velit libero vero, aliquid magnam sed, quidem labore unde aspernatur esse iusto quo quas, dolorum atque dignissimos asperiores. Ab, est accusantium.</p>
+                            <p>Started in 2004 Microns is an established name in manufacturing of wide range of precision machined components & assemblies.</p>
                             <ul>
                                 <li>
                                     <i class='bx bx-location-plus'></i>
-                                    Address: Washington, QD 201, United States
+                                    Plot no-28, Bagh Compound, Near Om Dharam Kanta, Sector-58, Faridabad - 121004, Haryana
                                 </li>
                                 <li>
                                     <i class='bx bx-mail-send'></i>
-                                    <a href="https://templates.envytheme.com/cdn-cgi/l/email-protection#bfd6d1d9d0ffcdd0ddcbd6dc91dcd0d2">
-                                        <span class="__cf_email__" data-cfemail="026b6c646d42706d60766b612c616d6f">[email&#160;protected]</span>
+                                    <a href="mailto:efsengineeringworks@outlook.com">
+                                        <span class="__cf_email__">efsengineeringworks@outlook.com</span>
                                     </a>
                                 </li>
                                 <li>
                                     <i class='bx bx-phone-call'></i>
-                                    <a href="tel:+8562-65516-595">
-                                        +8562-65516-595
+                                    <a href="tel:+918929292904">
+                                        +91 8929 2929 04
                                     </a>
                                 </li>
                             </ul>
