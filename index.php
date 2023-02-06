@@ -205,7 +205,7 @@
                     </div>
                     <div class="offer-item">
                         <div class="offer-top">
-                            <img src="assets/img/product-1.jpg" alt="Offer">
+                            <img src="assets/img/product-9.jpg" alt="Offer">
                             <i class="flaticon-3d-print"></i>
                         </div>
                         <div class="offer-bottom">
