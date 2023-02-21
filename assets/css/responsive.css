@@ -258,6 +258,12 @@
   .back-to-top-btn i {
     margin-right: 20px;
   }
+  #map-btn {
+    bottom: 80px;
+  }
+  .map-btn i {
+    margin-right: 20px;
+  }
   /*----- End Back to Top CSS -----*/
   /*----- End Home One CSS ------*/
   /*----- Home Two CSS -----*/
@@ -447,7 +453,7 @@
     text-align: center;
     padding-top: 50px;
     background-color: #fa5f0b;
-    margin-bottom: 50px;
+    padding-bottom: 50px;
   }
   .book-area .col-lg-6 {
     padding-left: 15px;
@@ -801,6 +807,9 @@
     margin-bottom: 10px;
   }
   /*----- End Privacy PolicyCSS -----*/
+  .hidden-xs {
+    display: none;
+  }
 }
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {

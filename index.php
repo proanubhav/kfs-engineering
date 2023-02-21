@@ -38,7 +38,7 @@
                                     </a>
                                 </div>
                             </div>
-                            <div class="col-lg-4">
+                            <div class="col-lg-4 hidden-xs">
                                 <div class="banner-img">
                                     <img src="assets/img/home-two/banner-main.png" alt="Banner">
                                 </div>
@@ -232,31 +232,11 @@
                         <div class="about-content">
                             <div class="section-title">
                                 <span class="sub-title">About</span>
-                                <h2>Know More That What Robots Can do</h2>
+                                <h2>Know More That What We Can do</h2>
                             </div>
-                            <!-- <div class="row">
-                                <div class="col-sm-6 col-lg-6">
-                                    <div class="counter-inner">
-                                        <h3>
-                                            <span class="odometer" data-count="3250">00</span> 
-                                            <span class="target">+</span>
-                                        </h3>
-                                        <p>Total Projects</p>
-                                    </div>
-                                </div>
-                                <div class="col-sm-6 col-lg-6">
-                                    <div class="counter-inner">
-                                        <h3>
-                                            <span class="odometer" data-count="150">00</span> 
-                                            <span class="target">+</span>
-                                        </h3>
-                                        <p>Win Award</p>
-                                    </div>
-                                </div>
-                            </div> -->
-                            <p class="about-p">Started in 2004 Microns is an established name in manufacturing of wide range of precision machined components & assemblies.</p>
+                            <p class="about-p">Established name in manufacturing of wide range of precision machined components & assemblies.</p>
                             <p class="about-p">The company was setup with the objective of serving the domestic and international customer in the field of Construction Equipment ,tractor industry & Automotive Sector.</p>
-                            <p class="about-p">The company is accredited with ISO 9001-2008 Quality Management System.</p>
+                            <p class="about-p">The company is accredited with ISO Quality Management System.</p>
                             <p class="about-p">Our products are being supplied in India and abroad.</p>
                             <p class="about-p">We are fully equipped to design and develop customized products as per customer need.</p>
                             <a class="cmn-btn" href="about.php">
@@ -321,7 +301,7 @@
                     <div class="col-lg-7">
                         <div class="benefit-content">
                             <div class="section-title">
-                                <h2>Quality System: ISO 9001:2008</h2>
+                                <h2>Quality System</h2>
                             </div>
                             <p>We at Microns India are strong believer of quality & customer satisfaction. We are cummitted in meeting our customer’s requirement and on the other hand, we always believe in exceeding their expectations. Our focus is on Cost, Quality & Delivery.</p>
                             <div class="row m-0">
@@ -374,7 +354,7 @@
                 <div class="row">
                     <div class="col-lg-6">
                         <div class="social-img">
-                            <img src="assets/img/home-three/social-main.jpg" alt="Social">
+                            <img src="assets/img/home-two/job1.jpg" alt="Social">
                         </div>
                     </div>
                     <div class="col-lg-6">
@@ -420,7 +400,7 @@
         <!-- End Book -->
 
         <!-- Testimonial -->
-        <section class="testimonial-area ptb-100">
+        <!-- <section class="testimonial-area ptb-100">
             <div class="testimonial-shape">
                 <img src="assets/img/home-two/testimonial-bg.png" alt="Testimonial">
             </div>
@@ -477,7 +457,7 @@
                     </div>
                 </div>
             </div>
-        </section>
+        </section> -->
         <!-- End Testimonial -->
 
         

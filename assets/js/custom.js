@@ -196,6 +196,7 @@ jQuery(function ($) {
 
 	// Back to Top JS 
 	$('body').append('<div id="toTop" class="back-to-top-btn"><i class="bx bxs-up-arrow-alt"></i></div>');
+	$('body').append('<a href="https://maps.app.goo.gl/NxDP3cAJQE3fEdhg6?g_st=iw" target="_blank"><div id="map-btn" class="map-btn"><i class="bx bxs-map"></i></div></a>');
 	$(window).scroll(function () {
 		if ($(this).scrollTop() != 0) {
 			$('#toTop').fadeIn();

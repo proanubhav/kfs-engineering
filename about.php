@@ -53,13 +53,13 @@
                 <div class="row align-iems-center">
                     <div class="col-lg-6">
                         <div class="section-title">
-                            <span class="sub-title">About Us</span>
-                            <h2>Design, Simulate, and Control Your Robtic System with the Action SDK</h2>
+                            <span class="sub-title">Our Company</span>
+                            <h2>About us KFS Engineering</h2>
                         </div>
                         <div class="about-content">
-                        <p class="about-p">Started in 2004 Microns is an established name in manufacturing of wide range of precision machined components & assemblies.</p>
+                        <p class="about-p">Established name in manufacturing of wide range of precision machined components & assemblies.</p>
                             <p class="about-p">The company was setup with the objective of serving the domestic and international customer in the field of Construction Equipment ,tractor industry & Automotive Sector.</p>
-                            <p class="about-p">The company is accredited with ISO 9001-2008 Quality Management System.</p>
+                            <p class="about-p">The company is accredited with ISO Quality Management System.</p>
                             <p class="about-p">Our products are being supplied in India and abroad.</p>
                             <p class="about-p">We are fully equipped to design and develop customized products as per customer need.</p>
                             <!-- <ul>
@@ -86,16 +86,7 @@
                         <div class="about-img-wrap">
                             <div class="about-img-slider owl-theme owl-carousel">
                                 <div class="about-img-item">
-                                    <img src="assets/img/home-one/about1.jpg" alt="About">
-                                </div>
-                                <div class="about-img-item">
-                                    <img src="assets/img/home-one/about2.jpg" alt="About">
-                                </div>
-                                <div class="about-img-item">
-                                    <img src="assets/img/home-one/about4.jpg" alt="About">
-                                </div>
-                                <div class="about-img-item">
-                                    <img src="assets/img/home-one/about5.jpg" alt="About">
+                                    <img src="assets/img/home-two/social-main.jpg" alt="About">
                                 </div>
                             </div>
                             <div class="about-shape">
@@ -120,7 +111,7 @@
                 <div class="row m-0">
                     <div class="col-lg-6">
                         <div class="job-img">
-                            <img src="assets/img/about-job-main.jpg" alt="Job">
+                            <img src="assets/img/home-two/social-main.jpg" alt="Job">
                         </div>
                     </div>
                     <div class="col-lg-6">

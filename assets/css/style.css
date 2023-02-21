@@ -2978,7 +2978,7 @@ footer:before {
 }
 
 .social-area-two .social-img {
-  background-image: url("../img/home-three/social-main.jpg");
+  background-image: url("../img/home-two/social-main.jpg");
 }
 
 .social-area-two .social-content {
@@ -3064,7 +3064,7 @@ footer:before {
 /*-- End Page Title --*/
 /*-- Job --*/
 .job-area-three .job-img {
-  background-image: url("../img/about-job-main.jpg");
+  background-image: url("../img/home-two/social-main.jpg");
 }
 
 /*-- End Job --*/
@@ -4525,6 +4525,38 @@ footer:before {
 }
 
 .back-to-top-btn i:hover {
+  background: #282828;
+  color: #ffffff;
+  -webkit-box-shadow: 0px 0px 14px 0px #282828;
+          box-shadow: 0px 0px 14px 0px #282828;
+}
+
+#map-btn {
+  position: fixed;
+  bottom: 30px;
+  left: 15px;
+  cursor: pointer;
+  z-index: 10;
+}
+
+.map-btn i {
+  background: #fa5f0b;
+  color: #ffffff;
+  height: 50px;
+  width: 50px;
+  line-height: 50px;
+  display: inline-block;
+  text-align: center;
+  font-size: 25px;
+  border-radius: 50%;
+  -webkit-transition: 0.5s all ease;
+  transition: 0.5s all ease;
+  margin-right: 28px;
+  -webkit-box-shadow: 0px 0px 14px 0px #fa5f0b;
+          box-shadow: 0px 0px 14px 0px #fa5f0b;
+}
+
+.map-btn i:hover {
   background: #282828;
   color: #ffffff;
   -webkit-box-shadow: 0px 0px 14px 0px #282828;

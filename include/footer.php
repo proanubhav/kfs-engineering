@@ -8,8 +8,8 @@
                         <a class="logo-link" href="index.php">
                             <img src="assets/img/logo-two.png" alt="Logo">
                         </a>
-                        <p>Started in 2004 Microns is an established name in manufacturing of wide range of precision machined components & assemblies.</p>
-                        <ul>
+                        <p>Established name in manufacturing of wide range of precision machined components & assemblies.</p>
+                        <!-- <ul>
                             <li>
                                 <a href="#" target="_blank">
                                     <i class='bx bxl-facebook'></i>
@@ -25,7 +25,7 @@
                                     <i class='bx bxl-twitter'></i>
                                 </a>
                             </li>
-                        </ul>
+                        </ul> -->
                     </div>
                 </div>
             </div>
@@ -106,7 +106,7 @@
                             <li>
                                 <i class='bx bx-location-plus'></i>
                                 <h4>Address</h4>
-                                <span>Plot no-28, Bagh Compound, Near Om Dharam Kanta, Sector-58, Faridabad - 121004, Haryana</span>
+                                <span><a href="https://maps.app.goo.gl/NxDP3cAJQE3fEdhg6?g_st=iw">Plot no-28, Bagh Compound, Near Om Dharam Kanta, Sector-58, Faridabad - 121004, Haryana</a></span>
                             </li>
                         </ul>
                     </div>
@@ -121,7 +121,7 @@
 <div class="copyright-area">
     <div class="container">
         <div class="copyright-item">
-            <p>Copyright ©2023 KFS Engineering. Designed By <a href="#" target="_blank">Love</a></p>
+            <p>Copyright ©2023 KFS Engineering. Designed By <a href="https://yellowapricots.in/" target="_blank">Yellow Apricots</a></p>
         </div>
     </div>
 </div>
