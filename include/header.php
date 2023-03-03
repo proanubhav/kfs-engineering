@@ -100,6 +100,9 @@
                             <a href="index.php#ourProducts" class="nav-link">Our Products</a>
                         </li>
                         <li class="nav-item">
+                            <a href="customer.php" class="nav-link">Customer</a>
+                        </li>
+                        <li class="nav-item">
                             <a href="contact.php" class="nav-link">Contact</a>
                         </li>
                     </ul>

@@ -47,7 +47,7 @@
                                 <a href="index.php#ourProducts">Rings</a>
                             </li>
                             <li>
-                                <a href="index.php#ourProducts">Shafts</a>
+                                <a href="index.php#ourProducts">Sensor</a>
                             </li>
                         </ul>
                         <ul>
@@ -76,13 +76,16 @@
                         <h3>Useful Links</h3>
                         <ul>
                             <li>
-                                <a href="index.php" target="_blank">Home</a>
+                                <a href="index.php">Home</a>
                             </li>
                             <li>
-                                <a href="about.php" target="_blank">About</a>
+                                <a href="about.php">About</a>
                             </li>
                             <li>
-                                <a href="contact.php" target="_blank">Contact</a>
+                                <a href="contact.php">Contact</a>
+                            </li>
+                            <li>
+                                <a href="customer.php">Customer</a>
                             </li>
                         </ul>
                     </div>

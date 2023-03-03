@@ -130,7 +130,7 @@
                         </div>
                         <div class="offer-bottom">
                             <h3>
-                                <a href="#">Shafts</a>
+                                <a href="#">Sensor</a>
                             </h3>
                             <!-- <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod </p> -->
                             
@@ -189,12 +189,12 @@
                     </div>
                     <div class="offer-item">
                         <div class="offer-top">
-                            <img src="assets/img/product-4.jpg" alt="Offer">
+                            <img src="assets/img/product-9.jpg" alt="Offer">
                             <i class="flaticon-3d-print"></i>
                         </div>
                         <div class="offer-bottom">
                             <h3>
-                                <a href="#">Ball Pins</a>
+                                <a href="#">Nuts</a>
                             </h3>
                             <!-- <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod </p> -->
                             
@@ -205,12 +205,12 @@
                     </div>
                     <div class="offer-item">
                         <div class="offer-top">
-                            <img src="assets/img/product-9.jpg" alt="Offer">
+                            <img src="assets/img/product-10.jpg" alt="Offer">
                             <i class="flaticon-3d-print"></i>
                         </div>
                         <div class="offer-bottom">
                             <h3>
-                                <a href="#">Nuts</a>
+                                <a href="#">Ball Pins</a>
                             </h3>
                             <!-- <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod </p> -->
                             
@@ -236,7 +236,7 @@
                             </div>
                             <p class="about-p">Established name in manufacturing of wide range of precision machined components & assemblies.</p>
                             <p class="about-p">The company was setup with the objective of serving the domestic and international customer in the field of Construction Equipment ,tractor industry & Automotive Sector.</p>
-                            <p class="about-p">The company is accredited with ISO Quality Management System.</p>
+                            <p class="about-p">The company is accredited with ISO 9001:2015 Quality Management System.</p>
                             <p class="about-p">Our products are being supplied in India and abroad.</p>
                             <p class="about-p">We are fully equipped to design and develop customized products as per customer need.</p>
                             <a class="cmn-btn" href="about.php">
@@ -303,7 +303,7 @@
                             <div class="section-title">
                                 <h2>Quality System</h2>
                             </div>
-                            <p>We at Microns India are strong believer of quality & customer satisfaction. We are cummitted in meeting our customer’s requirement and on the other hand, we always believe in exceeding their expectations. Our focus is on Cost, Quality & Delivery.</p>
+                            <p>We at KFS Engineering India are strong believer of quality & customer satisfaction. We are cummitted in meeting our customer’s requirement and on the other hand, we always believe in exceeding their expectations. Our focus is on Cost, Quality & Delivery.</p>
                             <div class="row m-0">
                                 <div class="col-sm-6 col-lg-6">
                                     <div class="benefit-inner">
@@ -363,7 +363,7 @@
                                 <h2>Our Manufacturing Facility:</h2>
                             </div>
                             <p>Our focus is on providing the best machining facilitis while designing and implementing processes that are cost efficient. We are equiped with state of the art machines with latest CAD- CAM design in house to enable us to provide quality products.</p>
-                            <p>A wide variety of equipment such as CNC cutting, CNC turning, horizontal machining, CNC drilling tapping, milling, grinding , automatic welding center & induction hardning makes Microns India a complete facility.</p>
+                            <p>A wide variety of equipment such as CNC cutting, CNC turning, horizontal machining, CNC drilling tapping, milling, grinding , automatic welding center & induction hardning makes KFS Engineering a complete facility.</p>
                             <p><strong>We have :</strong></p>
                             <p><i class="fa fa-angle-double-right" aria-hidden="true"></i> Qualified & experienced metallurgist.</p>
                             <p><i class="fa fa-angle-double-right" aria-hidden="true"></i> Inhouse lab for product delivery with complete analytical reports with quick turn around time.</p>
