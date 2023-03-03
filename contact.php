@@ -54,7 +54,7 @@
                     <div class="col-lg-6">
                         <div class="contact-item contact-left">
                             <h3>Our Located Place</h3>
-                            <p>Started in 2004 Microns is an established name in manufacturing of wide range of precision machined components & assemblies.</p>
+                            <p>Established name in manufacturing of wide range of precision machined components & assemblies.</p>
                             <ul>
                                 <li>
                                     <i class='bx bx-location-plus'></i>

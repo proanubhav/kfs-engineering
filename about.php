@@ -59,7 +59,7 @@
                         <div class="about-content">
                         <p class="about-p">Established name in manufacturing of wide range of precision machined components & assemblies.</p>
                             <p class="about-p">The company was setup with the objective of serving the domestic and international customer in the field of Construction Equipment ,tractor industry & Automotive Sector.</p>
-                            <p class="about-p">The company is accredited with ISO Quality Management System.</p>
+                            <p class="about-p">The company is accredited with ISO 9001:2015 Quality Management System.</p>
                             <p class="about-p">Our products are being supplied in India and abroad.</p>
                             <p class="about-p">We are fully equipped to design and develop customized products as per customer need.</p>
                             <!-- <ul>

@@ -4179,6 +4179,11 @@ footer:before {
   font-weight: 600;
 }
 
+
+.contact-area .contact-right .contact-btn:disabled {
+  cursor: pointer;
+}
+
 .contact-area .contact-right .contact-btn:hover {
   background-color: #282828;
 }
