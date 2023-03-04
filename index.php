@@ -62,7 +62,7 @@
                     <div class="offer-item">
                         <div class="offer-top">
                             <img src="assets/img/product-1.jpg" alt="Offer">
-                            <i class="flaticon-3d-print"></i>
+                            <!-- <i class="flaticon-3d-print"></i> -->
                         </div>
                         <div class="offer-bottom">
                             <h3>
@@ -78,7 +78,7 @@
                     <div class="offer-item">
                         <div class="offer-top">
                             <img src="assets/img/product-2.jpg" alt="Offer">
-                            <i class="flaticon-robotic-arm"></i>
+                            <!-- <i class="flaticon-robotic-arm"></i> -->
                         </div>
                         <div class="offer-bottom">
                             <h3>
@@ -94,7 +94,7 @@
                     <div class="offer-item">
                         <div class="offer-top">
                             <img src="assets/img/product-3.jpg" alt="Offer">
-                            <i class="flaticon-defribillator"></i>
+                            <!-- <i class="flaticon-defribillator"></i> -->
                         </div>
                         <div class="offer-bottom">
                             <h3>
@@ -110,7 +110,7 @@
                     <div class="offer-item">
                         <div class="offer-top">
                             <img src="assets/img/product-4.jpg" alt="Offer">
-                            <i class="flaticon-3d-print"></i>
+                            <!-- <i class="flaticon-3d-print"></i> -->
                         </div>
                         <div class="offer-bottom">
                             <h3>
@@ -126,7 +126,7 @@
                     <div class="offer-item">
                         <div class="offer-top">
                             <img src="assets/img/product-5.jpg" alt="Offer">
-                            <i class="flaticon-robotic-arm"></i>
+                            <!-- <i class="flaticon-robotic-arm"></i> -->
                         </div>
                         <div class="offer-bottom">
                             <h3>
@@ -142,7 +142,7 @@
                     <div class="offer-item">
                         <div class="offer-top">
                             <img src="assets/img/product-6.jpg" alt="Offer">
-                            <i class="flaticon-defribillator"></i>
+                            <!-- <i class="flaticon-defribillator"></i> -->
                         </div>
                         <div class="offer-bottom">
                             <h3>
@@ -158,7 +158,7 @@
                     <div class="offer-item">
                         <div class="offer-top">
                             <img src="assets/img/product-7.jpg" alt="Offer">
-                            <i class="flaticon-3d-print"></i>
+                            <!-- <i class="flaticon-3d-print"></i> -->
                         </div>
                         <div class="offer-bottom">
                             <h3>
@@ -174,7 +174,7 @@
                     <div class="offer-item">
                         <div class="offer-top">
                             <img src="assets/img/product-8.jpg" alt="Offer">
-                            <i class="flaticon-3d-print"></i>
+                            <!-- <i class="flaticon-3d-print"></i> -->
                         </div>
                         <div class="offer-bottom">
                             <h3>
@@ -190,7 +190,7 @@
                     <div class="offer-item">
                         <div class="offer-top">
                             <img src="assets/img/product-9.jpg" alt="Offer">
-                            <i class="flaticon-3d-print"></i>
+                            <!-- <i class="flaticon-3d-print"></i> -->
                         </div>
                         <div class="offer-bottom">
                             <h3>
@@ -206,7 +206,7 @@
                     <div class="offer-item">
                         <div class="offer-top">
                             <img src="assets/img/product-10.jpg" alt="Offer">
-                            <i class="flaticon-3d-print"></i>
+                            <!-- <i class="flaticon-3d-print"></i> -->
                         </div>
                         <div class="offer-bottom">
                             <h3>
@@ -235,7 +235,7 @@
                                 <h2>Know More That What We Can do</h2>
                             </div>
                             <p class="about-p">Established name in manufacturing of wide range of precision machined components & assemblies.</p>
-                            <p class="about-p">The company was setup with the objective of serving the domestic and international customer in the field of Construction Equipment ,tractor industry & Automotive Sector.</p>
+                            <p class="about-p">The company was setup with the objective of serving the domestic and international customer in the field of Construction Equipment, tractor industry & Automotive Sector.</p>
                             <p class="about-p">The company is accredited with ISO 9001:2015 Quality Management System.</p>
                             <p class="about-p">Our products are being supplied in India and abroad.</p>
                             <p class="about-p">We are fully equipped to design and develop customized products as per customer need.</p>
@@ -303,7 +303,7 @@
                             <div class="section-title">
                                 <h2>Quality System</h2>
                             </div>
-                            <p>We at KFS Engineering India are strong believer of quality & customer satisfaction. We are cummitted in meeting our customer’s requirement and on the other hand, we always believe in exceeding their expectations. Our focus is on Cost, Quality & Delivery.</p>
+                            <p>We at KFS Engineering are strong believer of quality & customer satisfaction. We are cummitted in meeting our customer’s requirement and on the other hand, we always believe in exceeding their expectations. Our focus is on Cost, Quality & Delivery.</p>
                             <div class="row m-0">
                                 <div class="col-sm-6 col-lg-6">
                                     <div class="benefit-inner">
@@ -380,7 +380,7 @@
         <!-- End Social -->
 
         <!-- Book -->
-        <div class="book-area">
+        <!-- <div class="book-area">
             <div class="container-float">
                 <div class="row">
                     <div class="col-lg-6">
@@ -390,13 +390,13 @@
                     </div>
                     <div class="col-lg-6">
                         <div class="book-content">
-                            <h3>Dedicated To Bring The World Powerful Robotic Solutions Book A Consultation</h3>
-                            <a href="#">Book Consultation</a>
+                            <h3>Dedicated To Bring The Powerful Machined Components Book a Consultation.</h3>
+                            <a href="contact.php">Book Consultation</a>
                         </div>
                     </div>
                 </div>
             </div>
-        </div>
+        </div> -->
         <!-- End Book -->
 
         <!-- Testimonial -->
