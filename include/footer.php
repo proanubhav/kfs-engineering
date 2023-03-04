@@ -109,7 +109,7 @@
                             <li>
                                 <i class='bx bx-location-plus'></i>
                                 <h4>Address</h4>
-                                <span><a href="https://maps.app.goo.gl/NxDP3cAJQE3fEdhg6?g_st=iw">Plot no-28, Bagh Compound, Near Om Dharam Kanta, Sector-58, Faridabad - 121004, Haryana</a></span>
+                                <span><a href="https://maps.app.goo.gl/NxDP3cAJQE3fEdhg6?g_st=iw" target="_blank">Plot no-28, Bagh Compound, Near Om Dharam Kanta, Sector-58, Faridabad - 121004, Haryana</a></span>
                             </li>
                         </ul>
                     </div>
