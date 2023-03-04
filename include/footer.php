@@ -124,7 +124,7 @@
 <div class="copyright-area">
     <div class="container">
         <div class="copyright-item">
-            <p>Copyright ©2023 KFS Engineering. Designed By <a href="https://yellowapricots.in/" target="_blank">Yellow Apricots</a></p>
+            <p>Copyright ©2023. KFS Engineering.</p>
         </div>
     </div>
 </div>
