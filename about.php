@@ -54,7 +54,7 @@
                     <div class="col-lg-6">
                         <div class="section-title">
                             <span class="sub-title">Our Company</span>
-                            <h2>About us KFS Engineering</h2>
+                            <h2>About KFS Engineering</h2>
                         </div>
                         <div class="about-content">
                         <p class="about-p">Established name in manufacturing of wide range of precision machined components & assemblies.</p>
@@ -86,18 +86,18 @@
                         <div class="about-img-wrap">
                             <div class="about-img-slider owl-theme owl-carousel">
                                 <div class="about-img-item">
-                                    <img src="assets/img/home-two/social-main.jpg" alt="About">
+                                    <img src="assets/img/home-two/about1.jpg" alt="About">
                                 </div>
                             </div>
                             <div class="about-shape">
-                                <img src="assets/img/home-one/about2.png" alt="About">
-                                <img src="assets/img/home-one/about3.jpg" alt="About">
+                                <!-- <img src="assets/img/home-one/about2.png" alt="About"> -->
+                                <!-- <img src="assets/img/home-one/about3.jpg" alt="About"> -->
                                 <img src="assets/img/home-one/about4.png" alt="About">
                                 <img src="assets/img/home-one/about5.png" alt="About">
                             </div>
-                            <div class="about-year">
+                            <!-- <div class="about-year">
                                 <h2>18 <span>Years</span></h2>
-                            </div>
+                            </div> -->
                         </div>
                     </div>
                 </div>

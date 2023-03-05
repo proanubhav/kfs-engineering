@@ -2,7 +2,7 @@
 <footer class="pt-100 pb-70">
     <div class="container">
         <div class="row">
-            <div class="col-sm-6 col-lg-3">
+            <div class="col-sm-6 col-lg-3 footer-item">
                 <div class="footer-item">
                     <div class="footer-logo">
                         <a class="logo-link" href="index.php">
@@ -29,7 +29,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-sm-6 col-lg-4">
+            <div class="col-sm-6 col-lg-4 footer-item">
                 <div class="footer-item">
                     <div class="footer-service">
                         <h3>Products</h3>
@@ -70,7 +70,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-sm-6 col-lg-2">
+            <div class="col-sm-6 col-lg-2 footer-item">
                 <div class="footer-item">
                     <div class="footer-service">
                         <h3>Useful Links</h3>

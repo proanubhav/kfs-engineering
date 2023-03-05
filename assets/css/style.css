@@ -237,6 +237,9 @@ button:focus {
 .navbar-light .navbar-brand .white-logo {
   display: none;
 }
+.navbar-light .navbar-brand img {
+  padding: 2px 0;
+}
 
 .navbar-area .main-nav {
   background-color: #fa5f0b;
@@ -608,8 +611,8 @@ button:focus {
 }
 
 .about-area .about-img-wrap .about-img-slider .about-img-item img {
-  width: unset !important;
-  max-width: 450px;
+  width: 100% !important;
+  max-width: 100%;
 }
 
 .about-area .about-img-wrap .owl-theme .owl-nav.disabled + .owl-dots {
@@ -634,7 +637,7 @@ button:focus {
 
 .about-area .about-img-wrap .about-shape img:nth-child(1) {
   top: -25px;
-  left: 0;
+  left: -25px;
 }
 
 .about-area .about-img-wrap .about-shape img:nth-child(2) {
